@@ -1,4 +1,4 @@
-# Structural-analysis-of-a-truss-bridge-under-uncertainties-using-Karhunen-Loeve-Expansion
+
 # Structural Analysis of a Truss Bridge with Uncertainties using Karhunen–Loève Expansion
 
 This project, originally completed as part of my MSc thesis at the **University of Glasgow**, explores **uncertainty quantification (UQ)** for structural systems using the **Karhunen–Loève (KL) expansion**, a spectral method for representing random fields.
