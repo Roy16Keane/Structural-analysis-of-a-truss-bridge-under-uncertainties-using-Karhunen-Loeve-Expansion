@@ -36,7 +36,7 @@ To benchmark and compare several methods for quantifying structural response unc
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 - Minimal covariance difference across all methods  
 - **KL expansion** achieved comparable accuracy to Monte Carlo at **lower computation cost**
